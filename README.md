@@ -350,7 +350,7 @@ Filtering works by matching the exact structure of the data you're searching. Th
     <!-- other html code -->
     <ul>
       <li ng-repeat="friend in friends | filter: friendFilter">
-  ```
+  ``` 
 </details>
 
 ### Make the list sortable
